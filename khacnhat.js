@@ -50,3 +50,5 @@ console.log(knhat)
  console.log(pop)
  student.length
  student.index 
+
+ 
