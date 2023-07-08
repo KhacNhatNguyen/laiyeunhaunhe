@@ -8,11 +8,11 @@ bai 2
 var a = -2
 var b = ["Ronlls Royce"]
 var c = 2
-var d = a+b  
+var d = a+C  
 console.log(d)
-var e = a%b  
+var e = a%c  
 console.log(e)
-var f = a*b
+var f = a*c
 console.log(f)
 
 bai 3
