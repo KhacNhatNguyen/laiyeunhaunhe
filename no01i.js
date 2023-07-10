@@ -14,8 +14,8 @@ var e = a%c
 console.log(e)
 var f = a*c
 console.log(f)
-
-bai 3
+// sử dụng dấu // để comment phần không phải code em nhé 
+//bai 3
 var point = 8 
 if( point < 5){
     console.log("học lực kém")
@@ -29,7 +29,7 @@ if( point >= 6.5 && point < 8){
 if( point > 8 ){
     console.log("học lực xuất sắc")
 }
-bài 4 
+//bài 4 
 var random = 5 
 if ( random % 2 = 0 ){
     console.log(" đây là số chẵn")
